@@ -1,0 +1,11 @@
+C:\Users\abdul\source\repos\Tic-Tac-Toe Game Project\bin\Debug\Tic-Tac-Toe Game Project.exe.config
+C:\Users\abdul\source\repos\Tic-Tac-Toe Game Project\bin\Debug\Tic-Tac-Toe Game Project.exe
+C:\Users\abdul\source\repos\Tic-Tac-Toe Game Project\bin\Debug\Tic-Tac-Toe Game Project.pdb
+C:\Users\abdul\source\repos\Tic-Tac-Toe Game Project\obj\Debug\Tic-Tac-Toe Game Project.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\Tic-Tac-Toe Game Project\obj\Debug\Tic-Tac-Toe Game Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdul\source\repos\Tic-Tac-Toe Game Project\obj\Debug\Tic_Tac_Toe_Game_Project.frmMainMenueGame.resources
+C:\Users\abdul\source\repos\Tic-Tac-Toe Game Project\obj\Debug\Tic_Tac_Toe_Game_Project.Properties.Resources.resources
+C:\Users\abdul\source\repos\Tic-Tac-Toe Game Project\obj\Debug\Tic-Tac-Toe Game Project.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\Tic-Tac-Toe Game Project\obj\Debug\Tic-Tac-Toe Game Project.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\Tic-Tac-Toe Game Project\obj\Debug\Tic-Tac-Toe Game Project.exe
+C:\Users\abdul\source\repos\Tic-Tac-Toe Game Project\obj\Debug\Tic-Tac-Toe Game Project.pdb
